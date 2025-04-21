@@ -44,7 +44,13 @@ Stryx Flowers нь онлайн цэцэг борлуулалтын сайт ю�
 1. Репозиторыг татаж авна уу
 2. `index.html` файлыг вэб браузерт нээнэ.
 
-## Холбоо барих
+## Холбоо барих [80699112]
 
 Instagram: [@nysnfr]
 ![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539)
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/U4SMLt_wUug" 
+  title="YouTube video player" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
