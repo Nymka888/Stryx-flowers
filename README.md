@@ -1,4 +1,88 @@
-# Stryx-flowers
+# Stryx-flowers body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff8f0;
+}
+
+header {
+  background-color: #f97ca4;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 40px;
+}
+
+.corner-decoration {
+  position: absolute;
+  width: 150px;
+  opacity: 0.8;
+  z-index: -1;
+}
+
+.top-left {
+  top: 0;
+  left: 0;
+}
+
+.bottom-right {
+  bottom: 0;
+  right: 0;
+} <!DOCTYPE html>
+<html lang="mn">
+<head>
+  <meta charset="UTF-8">
+  <title>Stryx Flowers</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Stryx Flowers</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Нүүр</a></li>
+        <li><a href="products.html">Бүтээгдэхүүн</a></li>
+        <li><a href="about.html">Бидний тухай</a></li>
+        <li><a href="contact.html">Холбоо барих</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Манай цэцэгсийн ертөнцөд тавтай морил!</h2>
+    <p>Энд гоёмсог цэцэгс, захиалга, үнэ, мэдээлэл бүгд багтсан.</p>
+  </main>
+
+  <!-- Булангийн чимэглэл -->
+  <img src="flowers-corner.png" class="corner-decoration top-left">
+  <img src="flowers-corner.png" class="corner-decoration bottom-right">
+
+</body>
+</html>
 My first website
 <!DOCTYPE html>
 <html lang="mn">
