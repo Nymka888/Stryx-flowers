@@ -62,12 +62,11 @@ Instagram: [@nysnfr]
 ![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <div class="side-by-side">
   <!-- Зураг -->
   <img src="![image](https://github.com/user-attachments/assets/dbc06c0a-2a98-4049-9e49-76d9e4ce8b83)
-" alt="Цэцэг" class="media-
-[![Видео үзэх] <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/_M8eHRifbVY?autoplay=1&mute=1"
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/_M8eHRifbVY?autoplay=1&mute=0"
   title="YouTube video player"
   frameborder="0"
-  allow="autoplay; encrypted-media"
+  allow="autoplay1; encrypted-media"
   allowfullscreen>
 </iframe>
   <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:5561384718
