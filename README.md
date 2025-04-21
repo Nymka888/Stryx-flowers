@@ -55,3 +55,12 @@ Instagram: [@nysnfr]
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
+<nav style="background-color: #f2f2f2; padding: 10px;">
+  <ul style="list-style: none; display: flex; gap: 20px; margin: 0; padding: 0;">
+    <li><a href="index.html">Нүүр</a></li>
+    <li><a href="about.html">Бидний тухай</a></li>
+    <li><a href="products.html">Бүтээгдэхүүн</a></li>
+    <li><a href="price.html">Үнэ</a></li>
+    <li><a href="contact.html">Холбоо барих</a></li>
+  </ul>
+</nav>
