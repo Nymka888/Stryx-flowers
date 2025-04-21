@@ -47,32 +47,8 @@ Stryx Flowers нь онлайн цэцэг борлуулалтын сайт ю�
 ## Холбоо барих [80699112]
 
 Instagram: [@nysnfr]
-![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:</strong>5561384718</p>
-</div>
-   <iframe width="560" height="
-  </iframe>
-      <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/U4SMLt_wUug"
-    title="YouTube video player" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:5561384718
+## Манай бүтээгдэхүүний видео танилцуулга
 
-</body>
-</html>src="https://youtu.be/_M8eHRifbVY
-    title="YouTube video player" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-<nav style="background-color: #f2f2f2; padding: 10px;">
-  <ul style="list-style: none; display: flex; gap: 20px; margin: 0; padding: 0;">
-    <li><a href="index.html">Нүүр</a></li>
-    <li><a href="about.html">Бидний тухай</a></li>
-    <li><a href="products.html">Бүтээгдэхүүн</a></li>
-    <li><a href="price.html">Үнэ</a></li>
-    <li><a href="contact.html">Холбоо барих</a></li>
-  </ul>
-</nav>
+[![Видео үзэх](https://img.youtube.com/vi/_M8eHRifbVY/0.jpg)](https://www.youtube.com/watch?v=_M8eHRifbVY)
+ 
