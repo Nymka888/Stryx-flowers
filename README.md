@@ -46,8 +46,5 @@ Stryx Flowers нь онлайн цэцэг борлуулалтын сайт ю�
 
 ## Холбоо барих
 
-Instagram: [@stryx.flowers](https://www.instagram.com/stryx.flowers)
-<img src="flower.jpg" alt="Flower image" width="300">
-<img src="images/flower.jpg" alt="Цэцэг зураг" width="300">
-<img src="images/rose.jpg" alt="Rose image" width="300">
+Instagram: [@nysnfr]
 ![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539)
