@@ -29,3 +29,21 @@ My first website
   <p>Цэцэгсийн гайхамшгийг мэдэр!</p>
 </body>
 </html>
+# Stryx Flowers
+
+Stryx Flowers нь онлайн цэцэг борлуулалтын сайт юм.
+
+## Технологиуд
+
+- HTML
+- CSS
+- JavaScript (сайтад динамик функцууд нэмэх)
+
+## Хэрхэн ажиллуулах вэ?
+
+1. Репозиторыг татаж авна уу
+2. `index.html` файлыг вэб браузерт нээнэ.
+
+## Холбоо барих
+
+Instagram: [@stryx.flowers](https://www.instagram.com/stryx.flowers)
