@@ -47,10 +47,10 @@ Stryx Flowers нь онлайн цэцэг борлуулалтын сайт ю�
 ## Холбоо барих [80699112]
 
 Instagram: [@nysnfr]
-![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <p><strong>Үнэ:</strong> 15,000₮</p>
+![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:</strong>5561384718</p>
 </div>
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/U4SMLt_wUug" 
+  src=https://youtu.be/_M8eHRifbVY
   title="YouTube video player" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
