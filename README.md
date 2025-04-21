@@ -62,19 +62,14 @@ Instagram: [@nysnfr]
 ![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <div class="side-by-side">
   <!-- Зураг -->
   <img src="![image](https://github.com/user-attachments/assets/dbc06c0a-2a98-4049-9e49-76d9e4ce8b83)
-" alt="Цэцэг" class="media-img">
-
-  <!-- Видео -->
-  <iframe 
-    width="400" 
-    height="225" 
-    src="https://youtu.be/_M8eHRifbVY" 
-    title="YouTube video" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
-<ྀིྀི
+" alt="Цэцэг" class="media-
+[![Видео үзэх] <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/_M8eHRifbVY?autoplay=1&mute=1"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen>
+</iframe>
   <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:5561384718
 ## Манай бүтээгдэхүүний видео танилцуулга
 <h2>Видео шууд үзэх</h2>
