@@ -1,8 +1,4 @@
-<!-- index.html дотор -->
-<img src="https://i.ibb.co/F5FZkTN/flower-sticker1.png" class="corner top-left">
-<img src="https://i.ibb.co/W3Ld5fF/flower-sticker2.png" class="corner top-right">
-<img src="https://i.ibb.co/0GgjsDf/flower-sticker3.png" class="corner bottom-left">
-<img src="https://i.ibb.co/F5FZkTN/flower-sticker1.png" class="corner bottom-right">
+
 
   <main>
     <h2>Манай цэцэгсийн ертөнцөд тавтай морил!</h2>
@@ -63,12 +59,22 @@ Stryx Flowers нь онлайн цэцэг борлуулалтын сайт ю�
 ## Холбоо барих [80699112]
 
 Instagram: [@nysnfr]
-![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/_M8eHRifbVY"
-  title="YouTube video player" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+![image](https://github.com/user-attachments/assets/ea8682e9-7f26-4386-9fec-ef688ff04539) <div class="side-by-side">
+  <!-- Зураг -->
+  <img src="![image](https://github.com/user-attachments/assets/dbc06c0a-2a98-4049-9e49-76d9e4ce8b83)
+" alt="Цэцэг" class="media-img">
+
+  <!-- Видео -->
+  <iframe 
+    width="400" 
+    height="225" 
+    src="https://youtu.be/_M8eHRifbVY" 
+    title="YouTube video" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
+<ྀིྀི
   <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:5561384718
 ## Манай бүтээгдэхүүний видео танилцуулга
 <h2>Видео шууд үзэх</h2>
