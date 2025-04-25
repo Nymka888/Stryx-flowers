@@ -72,5 +72,48 @@ Instagram: [@nysnfr]
   <p><strong>Үнэ:</strong> 15,000₮</p> <p><strong>Данс:5561384718
 ## Манай бүтээгдэхүүний видео танилцуулга
 <h2>Видео шууд үзэх</h2>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
 
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
 
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+section {
+  padding: 20px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+document.querySelector('form').addEventListener('submit', function(event) {
+  event.preventDefault();
+  const flower = document.getElementById('flower').value;
+  alert(`You have successfully ordered a ${flower}.`);
+});
